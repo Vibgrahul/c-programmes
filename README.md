@@ -1,2 +1,2 @@
 # c-programmes
-My wprkspace to store c programming codes
+My workspace to store c programming codes
